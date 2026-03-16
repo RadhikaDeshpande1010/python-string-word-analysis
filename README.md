@@ -15,7 +15,8 @@ This project works through 15 structured exercises that each take a list of word
 ```
 python-string-word-analysis/
 │
-├── python_string_word_analysis.ipynb   # Main exercise notebook
+├── notebook/
+│   └── python_string_word_analysis.ipynb   # Main exercise notebook
 └── README.md
 ```
 
